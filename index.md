@@ -1,8 +1,4 @@
----
-title: Jiaming Fan
----
-
-# Fan Jiaming
+# Jiaming Fan
 
 ## About Me
 Senior at Southeast University, majoring in Mathematics. Incoming graduate student in Artificial Intelligence with research interests in large models, speculative decoding, contrastive decoding, and in-context learning.
